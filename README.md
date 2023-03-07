@@ -23,7 +23,7 @@
 			Exemplo: 1, 2, 3, 4, 5 ...
 	
 		String – texto (escrever entre áspas "")
-			Exemplo: "Me da nota, Della Mura"
+			Exemplo: "Me dá nota, Della Mura"
 	 
 		Bool – true ou false
 			Exemplo: false
