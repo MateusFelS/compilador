@@ -1,0 +1,66 @@
+public enum SyntaxKind
+{
+    //Tokens
+    NumberToken,
+    WhiteSpaceToken,
+    PlusToken,
+    MinusToken,
+    MultToken,
+    DivToken,
+    OpenParToken,
+    CloseParToken,
+    BadToken,
+    EOFToken,
+    IdentifierToken,
+    BangToken,
+    AmpersandToken,
+    PipeToken,
+    EqualsToken,
+    EqualsEqualsToken,
+    BangEqualsToken,
+    CloseBraceToken,
+    OpenBraceToken,
+
+    //Keywords
+    TrueKeyword,
+    FalseKeyword,
+    VarKeyword,
+    LetKeyword,
+    
+    //Expressions
+    NumberExpression,
+    BinaryOperation,
+    UnaryOperation,
+    ParExpression,
+    UnaryExpression,
+    BinaryExpression,
+    NameExpression,
+    AssignmentExpression,
+
+    //Nodes
+    CompilationUnit,
+
+    //Statements
+    BlockStatement,
+    ExpressionStatement,
+    VariableDeclaration,
+    LessOrEqualsToken,
+    LessToken,
+    GreatOrEqualsToken,
+    GreatToken,
+    IfStatement,
+    ElseClause,
+    IfKeyword,
+    ElseKeyword,
+    WhileKeyword,
+    WhileStatement,
+    ForKeyword,
+    ForStatement,
+    ToKeyword,
+    StringToken,
+    CallExpression,
+    Comma,
+    StringKeyword,
+    ColonToken,
+    TypeClause,
+}
