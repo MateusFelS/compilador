@@ -86,7 +86,7 @@
 			Exemplo:  {
 				    var a = 0
 				    while a < 5
-				    a = a + 1
+				       a = a + 1
 				  }
 
 	 
@@ -94,7 +94,7 @@
 			Exemplo: {
 				   var result = 0
 				   for i = 1 to 10
-				   result = result + 1
+				      result = result + 1
 				 }
 
 
