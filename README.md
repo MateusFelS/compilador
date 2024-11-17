@@ -110,7 +110,6 @@ Esta documentação apresenta os principais comandos e funcionalidades suportado
 			      result = result + 1
 			 }
 
-
 ## Controle de fluxo:
 
 	- if ‘condição’
@@ -126,8 +125,6 @@ Esta documentação apresenta os principais comandos e funcionalidades suportado
 			   else
 			      b = 100
 			 }
-
-
 
 ## Número random:
 
