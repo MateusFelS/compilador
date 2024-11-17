@@ -15,44 +15,44 @@ Esta documentação apresenta os principais comandos e funcionalidades suportado
  
 ## Leitura e Escrita:
 
-	- write() - Escrever valor na tela
+	- **write()** - Escrever valor na tela
 		Exemplo: write("Olá, Mundo!")	   
   	
- 	- read() - Ler um valor do teclado
+ 	- **read()** - Ler um valor do teclado
   	Exemplo: var name = read()
           
 ## Declaração de Variáveis:
 
-	- var – pode ser atribuído valores
+	- **var** – pode ser atribuído valores
   	Exemplo: var a = 5
   	a = a + 1
 	
- 	- let – somente leitura
+ 	- **let** – somente leitura
   	Exemplo: let a = 0
  
 ## Tipos Suportados:
 
-	- int – números inteiros
+	- **int** – números inteiros
 		Exemplo: 1, 2, 3, 4, 5 ...
 	
-	- String – texto (escrever entre áspas "")
+	- **String** – texto (escrever entre áspas "")
 		Exemplo: "Me dá nota, Della Mura"
 	 
-	- Bool – true ou false
+	- **Bool** – true ou false
  		Exemplo: false
 
 ## Operações Matemáticas:
 
-	- “+” - Adição
+	- **“+”** - Adição
 		Exemplo: 5 + 2
          
-	- “-“ – Subtração
+	- **“-“** – Subtração
 		Exemplo: 4 - 3
 	          
-	- “*” – Multiplicação
+	- **“*”** – Multiplicação
 		Exemplo: 8 * 3
 	 
-	- “/” – Divisão
+	- **“/”** – Divisão
 	 	Exemplo: 4 / 2
 
 ## Operadores de comparação:
