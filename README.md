@@ -19,13 +19,13 @@ Esta documentação apresenta os principais comandos e funcionalidades suportado
 	Exemplo: write("Olá, Mundo!")	   
   	 
  	read() - Ler um valor do teclado
-  Exemplo: var name = read()
+  	Exemplo: var name = read()
           
 ## Declaração de Variáveis:
 
 	var – pode ser atribuído valores
-  Exemplo: var a = 5
-  a = a + 1
+  	Exemplo: var a = 5
+  	a = a + 1
 	
  	let – somente leitura
   Exemplo: let a = 0
