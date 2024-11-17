@@ -1,11 +1,6 @@
 # 📜 Documentação do Compilador
 
 Esta documentação apresenta os principais comandos e funcionalidades suportados pelo compilador, incluindo leitura/escrita, declaração de variáveis, operações matemáticas, controle de fluxo e muito mais.
-## Indice
-- [Objetivo](#objetivo)
-- [Funcionalidades Testadas](#funcionalidades-testadas)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Pré-Requisitos para Instalação](#pré-requisitos-para-instalação)
 
 ## Indice
 - [Leitura e Escrita](#leitura-e-escrita)
@@ -25,22 +20,24 @@ Esta documentação apresenta os principais comandos e funcionalidades suportado
 	write() - Escrever valor na tela
  	```bash
 	Exemplo: write("Olá, Mundo!")	   
-     		
+     	```
 	read() - Ler um valor do teclado
  	```bash
   	Exemplo: var name = read()
-     
+     	```
+      
 ## ✏️ Declaração de Variáveis:
 
 	var – pode ser atribuído valores
 	```bash
  	Exemplo: var a = 5
         a = a + 1
-
+	```
 	let – somente leitura
    	```bash	
     	Exemplo: let a = 0
-
+	```
+ 
 ## 🔢 Tipos Suportados:
 
 	int – números inteiros
