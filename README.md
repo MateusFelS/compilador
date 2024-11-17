@@ -18,11 +18,14 @@ Esta documentação apresenta os principais comandos e funcionalidades suportado
 ## 🖋️ Leitura e Escrita:
 
 	write() - Escrever valor na tela
+ 
  	```bash
 	Exemplo: write("Olá, Mundo!")	   
      	```
-	read() - Ler um valor do teclado
- 	```bash
+	
+ 	read() - Ler um valor do teclado
+ 	
+  	```bash
   	Exemplo: var name = read()
      	```
       
@@ -30,10 +33,12 @@ Esta documentação apresenta os principais comandos e funcionalidades suportado
 
 	var – pode ser atribuído valores
 	```bash
- 	Exemplo: var a = 5
+ 	
+  	Exemplo: var a = 5
         a = a + 1
 	```
-	let – somente leitura
+	
+ 	let – somente leitura
    	```bash	
     	Exemplo: let a = 0
 	```
