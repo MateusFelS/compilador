@@ -1,46 +1,77 @@
+# 📜 Documentação do Compilador
+
+Esta documentação apresenta os principais comandos e funcionalidades suportados pelo compilador, incluindo leitura/escrita, declaração de variáveis, operações matemáticas, controle de fluxo e muito mais.
+## Indice
+- [Objetivo](#objetivo)
+- [Funcionalidades Testadas](#funcionalidades-testadas)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Pré-Requisitos para Instalação](#pré-requisitos-para-instalação)
+
+## Indice
+- [Leitura e Escrita](#leitura-e-escrita)
+- [Declaração de Variáveis](#declaração-de-variaveis)
+- [Tipos Suportados](#tipos-suportados)
+- [Operações Matemáticas](#operações-matemáticas)
+- [Operadores de Comparação](#operadores-de-comparação)
+- [Laços de Repetição](#laços-de-repetição)
+- [Controle de Fluxo](#controle-de-fluxo)
+- [Número Random](#número-random)
+- [Conversão de Tipos](#conversão-de-tipos)
+
 # compilador
  
-## Leitura e Escrita:
+## 🖋️ Leitura e Escrita:
 
-		write() - Escrever valor na tela
-			Exemplo: write("Olá, Mundo!")	   
+	write() - Escrever valor na tela
+ 	```bash
+	Exemplo: write("Olá, Mundo!")	   
      		
-		read() - Ler um valor do teclado
-			Exemplo: var name = read()
+	read() - Ler um valor do teclado
+ 	```bash
+  	Exemplo: var name = read()
      
-## Declaração de variáveis:
+## ✏️ Declaração de Variáveis:
 
-		var – pode ser atribuído valores
-			Exemplo: var a = 5
-                		 a = a + 1
-                 
-		let – somente leitura
-        		Exemplo: let a = 0
+	var – pode ser atribuído valores
+	```bash
+ 	Exemplo: var a = 5
+        a = a + 1
 
-## Tipos:
+	let – somente leitura
+   	```bash	
+    	Exemplo: let a = 0
 
-		int – números inteiros
-			Exemplo: 1, 2, 3, 4, 5 ...
+## 🔢 Tipos Suportados:
+
+	int – números inteiros
+	```bash
+ 	Exemplo: 1, 2, 3, 4, 5 ...
 	
-		String – texto (escrever entre áspas "")
-			Exemplo: "Me dá nota, Della Mura"
+	String – texto (escrever entre áspas "")
+	```bash
+ 	Exemplo: "Me dá nota, Della Mura"
 	 
-		Bool – true ou false
-			Exemplo: false
+	Bool – true ou false
+	```bash
+ 	Exemplo: false
 
-## Operações matemáticas:
+## ➕ Operações Matemáticas:
 
-		“+” - Adição
-			Exemplo: 5 + 2
+	“+” - Adição
+	```bash
+ 	Exemplo: 5 + 2
          
-		“-“ – Subtração
-			Exemplo: 4 - 3
+	“-“ – Subtração
+	```bash
+ 	Exemplo: 4 - 3
 	          
-		“*” – Multiplicação
-			Exemplo: 8 * 3
+	“*” – Multiplicação
+	```bash
+ 	Exemplo: 8 * 3
 	 
-		“/” – Divisão
-			Exemplo: 4 / 2
+	“/” – Divisão
+	```bash
+ 	Exemplo: 4 / 2
 
 ## Operadores de comparação:
 
