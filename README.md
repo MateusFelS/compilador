@@ -15,21 +15,21 @@ Esta documentação apresenta os principais comandos e funcionalidades suportado
 
 # compilador
  
-## 🖋️ Leitura e Escrita:
+## Leitura e Escrita:
 
 	write() - Escrever valor na tela
  
- 	```bash
+ 	```
 	Exemplo: write("Olá, Mundo!")	   
      	```
 	
  	read() - Ler um valor do teclado
  	
-  	```bash
+  	```
   	Exemplo: var name = read()
      	```
       
-## ✏️ Declaração de Variáveis:
+## Declaração de Variáveis:
 
 	var – pode ser atribuído valores
 	```bash
@@ -43,7 +43,7 @@ Esta documentação apresenta os principais comandos e funcionalidades suportado
     	Exemplo: let a = 0
 	```
  
-## 🔢 Tipos Suportados:
+## Tipos Suportados:
 
 	int – números inteiros
 	```bash
@@ -57,7 +57,7 @@ Esta documentação apresenta os principais comandos e funcionalidades suportado
 	```bash
  	Exemplo: false
 
-## ➕ Operações Matemáticas:
+## Operações Matemáticas:
 
 	“+” - Adição
 	```bash
