@@ -19,29 +19,24 @@ Esta documentação apresenta os principais comandos e funcionalidades suportado
 
 	write() - Escrever valor na tela
  
- 	```
+ 	```bash
 	Exemplo: write("Olá, Mundo!")	   
-     	```
-	
+  	
  	read() - Ler um valor do teclado
  	
-  	```
+  	```bash
   	Exemplo: var name = read()
-     	```
-      
+          
 ## Declaração de Variáveis:
 
 	var – pode ser atribuído valores
 	```bash
- 	
-  	Exemplo: var a = 5
-        a = a + 1
-	```
+  Exemplo: var a = 5
+  a = a + 1
 	
  	let – somente leitura
    	```bash	
-    	Exemplo: let a = 0
-	```
+    Exemplo: let a = 0
  
 ## Tipos Suportados:
 
