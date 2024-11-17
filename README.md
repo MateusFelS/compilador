@@ -17,7 +17,7 @@ Esta documentação apresenta os principais comandos e funcionalidades suportado
 
 	- **write()** - Escrever valor na tela
 		Exemplo: write("Olá, Mundo!")	   
-  	
+  	 
  	- **read()** - Ler um valor do teclado
   	Exemplo: var name = read()
           
