@@ -15,10 +15,10 @@ Esta documentação apresenta os principais comandos e funcionalidades suportado
  
 ## Leitura e Escrita:
 
-	- **write()** - Escrever valor na tela
+	- **`write()`** - Escrever valor na tela
 		Exemplo: write("Olá, Mundo!")	   
   	
- 	- **read()** - Ler um valor do teclado
+ 	- **`read()`** - Ler um valor do teclado
   	Exemplo: var name = read()
           
 ## Declaração de Variáveis:
